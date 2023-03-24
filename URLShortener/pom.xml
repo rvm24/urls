@@ -13,7 +13,7 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <spring.framework>2.2.1.RELEASE</spring.framework>
-    <spring.core.framework>5.2.1.RELEASE</spring.core.framework>
+    <spring.core.framework>5.2.23.RELEASE</spring.core.framework>
     <spring.commons.core.framework>1.4.1.RELEASE</spring.commons.core.framework>
     <hamcrest.library>2.2</hamcrest.library>
     <junit.framework>4.12</junit.framework>
